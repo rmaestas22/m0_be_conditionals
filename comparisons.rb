@@ -57,21 +57,21 @@ puts "is number_students less than or equal to 21", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
-
+this will print out if 4 is less than 9. should answer true
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-
+will print out if 4 is less thn books/3 should answer false
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-
+will print out if friends/6 is greater than siblings/2 should answer true
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+will print if attendees/9 is not equal to meals/8 should answer true 
 
 #-------------------
 # PART 3: Logical Operators
