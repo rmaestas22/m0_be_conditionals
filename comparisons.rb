@@ -71,7 +71,7 @@ attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-will print if attendees/9 is not equal to meals/8 should answer true 
+will print if attendees/9 is not equal to meals/8 should answer true
 
 #-------------------
 # PART 3: Logical Operators
@@ -93,15 +93,15 @@ age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
-
+loves_to_play && loves_treats
 
 # Determine if the dog loves to play and loves the dog park
-
+loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-
+ loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
-
+ loves_to_play && age
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER:false 
